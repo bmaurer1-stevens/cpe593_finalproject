@@ -7,7 +7,9 @@ Group
 Bridgette (Brie) Maurer
 
 William (Bill) O'Malley
-project-root/
+
+Project Contents:
+
     ├── data/
     │   ├── generated_graphs/       # Stores graph data (in .json/.pkl formats)
     ├── src/
